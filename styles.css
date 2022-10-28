@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: white;
+}
+h1{
+  color: #FF6F28;
+}
+hr {
+  height: 8px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 15%;
+  border-color: rgb(40, 101, 155);
+}
+
+hr:hover{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 20%;
+  border-color: #FF6F28;
+  transition-duration: 1s;
+}
+
+img{
+  height: 50px;
+}
+.logo:hover{
+  height: 75px;
+  transition-duration: 1s;
+}
+p:hover{
+  color: #FF6F28;
+  font-size: 17px;
+  transition-duration: 1s;
+}
+h1:hover{
+  font-size: 38px;
+  color: #FF6F28;
+  transition-duration: 1s;
+}
+a:hover{
+  color: #FF6F28;
+}
+.stars:hover{
+  font-size: 22px;
+  transition-duration: 1s;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+h3:hover{
+  font-size: 22px;
+  transition-duration: 1s;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
